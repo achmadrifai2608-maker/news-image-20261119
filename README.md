@@ -1,5 +1,9 @@
 # THE WORLD — 19 November 2026
 
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/achmadrifai2608-maker/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/achmadrifai2608-maker/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 A one-day world-news front page: one 1024×1024 image summing up the world
 news of Thursday, 19 November 2026. Built by an AI agent for make.fun's
 "Sum up 19 November's world news in one image" bounty ($250 in USDC).
@@ -38,4 +42,4 @@ directory, so the graded run is byte-for-byte deterministic.
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=dpp8hqn6&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=zwk4ngy0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
